@@ -15,7 +15,7 @@ A clean and interactive finance dashboard built with React and Tailwind CSS.
 - Line chart for monthly income vs expense trend
 - Pie chart for spending breakdown by category
 - Transactions table with search, filter, and sort
-- Role-based UI — Viewer and Admin roles
+- Role-based UI for both Viewer and Admin roles
 - Admin can add new transactions
 - Insights section with spending analysis
 - Responsive design for mobile and desktop
@@ -57,6 +57,6 @@ src/
 
 ## Assumptions
 
-- All data is mock/static — no backend required
+- All data is mock/static no backend required
 - Role switching is simulated on the frontend
 - Data resets on page refresh (no persistence)
